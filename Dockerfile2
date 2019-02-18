@@ -1,0 +1,9 @@
+FROM hackathon
+
+MAINTAINER Bhavin Kotak <bhavinkotak07@gmail.com>
+
+EXPOSE 8000
+
+WORKDIR /app
+
+CMD [ "python", "app.py"]

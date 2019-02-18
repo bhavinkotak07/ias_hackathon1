@@ -1,0 +1,1 @@
+echo 'bkotak' | sudo -S echo 'hello'
