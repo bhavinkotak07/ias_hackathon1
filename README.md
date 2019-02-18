@@ -1,1 +1,9 @@
-# ias_hackathon1 git init git add . git commit -m Done git remote add ias_origin https://github.com/bhavinkotak07/ias_hackathon1.git git push -u ias_origin master
+This is an AI based application which identifies dog's breed from input image.
+
+Instructions to run:
+> Enter credentials in "credentials" file
+> RUN bash run.sh
+
+The application can be accessed from any web browser in local network.
+
+
